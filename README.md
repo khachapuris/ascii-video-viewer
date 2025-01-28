@@ -23,7 +23,7 @@ To run an ascii video stored in a file with the name `file.txt`
 If you run `python watch.py file.txt` on a simple text file
 (that does not have `ascii video` as the first line),
 the file will appear one paragraph per slide with the speed
-one slide per second.
+of one slide per second.
 
 Making an animation
 -------------------
@@ -35,7 +35,7 @@ To create an animation, follow the following structure:
 consist of lines with one of the following structures:
     + `title=<anything>`, anything you want to say
     + `speed=<float>`, the speed of the animation in Hz (default 1)
-    + `left=<int>`, the left margin of the screen (default 5)
+    + `left=<int>`, the left margin of the screen in spaces (default 5)
 3. An empty line
 4. Frames and commands followed by empty lines
 
@@ -43,4 +43,6 @@ consist of lines with one of the following structures:
 (optional, for visualisation of leading spaces)
 + A command may be the following:
     + `move n`, move `n` times to the right, `n` may be negative
-    + `sleep n`, keep the current image for `n` frames
+    + `sleep n`, keep the current state of the screen for `n` more frames
+
+You can find examples of animations in the `ascii-video-viewer` directory.
