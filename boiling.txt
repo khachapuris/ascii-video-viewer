@@ -1,0 +1,18 @@
+ascii video
+speed=5
+
+([ ^ O  ]);
+ [__o_._] ;
+ oOoOoOoO ;
+
+([  O^  ]);
+ [_.__o_] ;
+ OoOoOoOo ;
+
+([  ^ O ]);
+ [_o_.__] ;
+ oOoOoOoO ;
+
+([ O  ^ ]);
+ [__.o__] ;
+ OoOoOoOo ;

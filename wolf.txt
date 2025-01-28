@@ -1,0 +1,67 @@
+ascii video
+speed=10
+left=0
+
+    __ /^>;
+  /CCCCP  ;
+ -  _ _  -;
+
+sleep 1
+
+move 1
+
+    __ /^>;
+  /CCCCP  ;
+ - _  _ - ;
+
+move 1
+
+   __ /^> ;
+ /CCCCP   ;
+ -_   _-  ;
+
+move 1
+
+   __ /^> ;
+ /CCCCP   ;
+ =    =   ;
+
+   __ /^> ;
+ /CCCCP   ;
+ _-   -_  ;
+
+    __ /^>;
+  /CCCCP  ;
+ _ -  - _ ;
+
+    __ /^>;
+  /CCCCP  ;
+ _  - -  _;
+
+sleep 1
+
+move 1
+
+    __ /^>;
+  /CCCCP  ;
+ _ -  - _ ;
+
+move 1
+
+   __ /^> ;
+ /CCCCP   ;
+ _-   -_  ;
+
+move 1
+
+   __ /^> ;
+ /CCCCP   ;
+ =    =   ;
+
+   __ /^> ;
+ /CCCCP   ;
+ -_   _-  ;
+
+    __ /^>;
+  /CCCCP  ;
+ - _  _ - ;
